@@ -2,6 +2,8 @@
 
 Animated fractal tree renderer built on the HTML5 Canvas API. Recursive branching with real-time wind simulation and interactive controls.
 
+**[Live Demo →](https://h4jwm4.github.io/fractal-tree-animation/)**
+
 ![depth 13, spread 0.3](fractal-tree-screenshot.png)
 ---
 
